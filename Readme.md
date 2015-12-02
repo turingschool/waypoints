@@ -41,4 +41,4 @@ Waypoints
 * In that file, make two classes, `PassingTest` and `NonPassingTest`
 * Give `PassingTest` one test, which passes
 * Give `NonPassingTest` class a failing test, an erroring test, and a skipped test that would fail if it weren't skipped.
-* Example: (coming soon :D)
+* [Example Video](https://vimeo.com/147628364)
