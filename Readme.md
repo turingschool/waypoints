@@ -46,7 +46,7 @@ Waypoints
 
 ### [Object Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown)
 
-[Example Video](http://turing.io)
+[Example Video](https://vimeo.com/147760405)
 
 #### Waypoint 1
 
