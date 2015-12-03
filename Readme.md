@@ -50,9 +50,23 @@ Waypoints
 
 #### Waypoint 1
 
-Create the horse class that we are using here.
+Fill in the methods on the Horse class so that the examples below work.
 
 ```ruby
+class Horse
+  def initialize
+  end
+
+  def galloping?
+  end
+
+  def gallop
+  end
+
+  def rest
+  end
+end
+
 bessie = Horse.new
 anakin = Horse.new
 
@@ -71,9 +85,20 @@ anakin.galloping? # => true
 
 #### Waypoint 2
 
-Create the MusicPlayer class that we are using here.
+Fill in the methods on the MusicPlayer class so that the examples below work.
 
 ```ruby
+class MusicPlayer
+  def initialize(songs)
+  end
+
+  def playing
+  end
+
+  def play(track)
+  end
+end
+
 songs = ['Born This Way', 'Shake It Off', 'Sandstorm']
 
 mp = MusicPlayer.new songs
