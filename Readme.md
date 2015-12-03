@@ -42,3 +42,49 @@ Waypoints
 * Give `PassingTest` one test, which passes
 * Give `NonPassingTest` class a failing test, an erroring test, and a skipped test that would fail if it weren't skipped.
 * [Example Video](https://vimeo.com/147628364)
+
+
+### [Object Oriented Programming](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/object_oriented_programming.markdown)
+
+[Example Video](http://turing.io)
+
+#### Waypoint 1
+
+Create the horse class that we are using here.
+
+```ruby
+bessie = Horse.new
+anakin = Horse.new
+
+bessie.galloping? # => false
+anakin.galloping? # => false
+
+bessie.gallop
+bessie.galloping? # => true
+anakin.galloping? # => false
+
+bessie.rest
+anakin.gallop
+bessie.galloping? # => false
+anakin.galloping? # => true
+```
+
+#### Waypoint 2
+
+Create the MusicPlayer class that we are using here.
+
+```ruby
+songs = ['Born This Way', 'Shake It Off', 'Sandstorm']
+
+mp = MusicPlayer.new songs
+mp.playing # => "Born This Way"
+
+mp.play 2
+mp.playing # => "Sandstorm"
+
+mp.play 0
+mp.playing # => "Born This Way"
+
+mp.play 1
+mp.playing # => "Shake It Off"
+```
