@@ -125,3 +125,73 @@ the first element being the data, the second being the link. Show that you can a
 Same thing, but with a hash table whose keys are `:data` and `:link`.
 
 Same thing, but with an object that has methods `data` and `link`.
+
+
+### [How Git Works](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/choose_your_own_adventure_intro_to_git.markdown)
+
+[Example Video](http://www.example.com)
+
+How I learned to stop fearing git: run `git status` after everything I do.
+Do that here, even though I haven't explicitly listed it.
+
+```
+# Creating a repo
+Create a directory                      # mkdir how-git-works
+change into that directory              # cd how-git-works
+init the repository                     # git init
+
+# Adding new content
+show the status                         # git status
+Make 2 empty files                      # atom .
+show the status                         # git status
+add the 2 files                         # git add file1 file2
+show the status                         # git status
+commit the 2 files                      # git commit -m 'Add file1 and file2'
+show the status                         # git status
+
+# Seeing changes and editing content
+show the status                         # git status
+edit both files
+show the status                         # git status
+diff the first file                     # git diff file1
+show the status                         # git status
+add the first file                      # git add file1
+show the status                         # git status
+commit the fist file                    # git commit -m 'Add file1
+show the status                         # git status
+
+add the second file                     # git add file2
+show the status                         # git status
+commit the second file                  # git commit -m 'Add file2'
+show the status                         # git status
+
+# Adding some of the content
+edit both files
+show the status                         # git status
+diff the first file                     # git diff file1
+show the status                         # git status
+add the first file                      # git add file1
+show the status                         # git status
+diff the first file                     # git diff file1
+show the status                         # git status
+diff the cached file                    # git diff file1 --cached
+show the status                         # git status
+commit the first file                   # git commit -m 'Add file1'
+show the status                         # git status
+
+# Disregarding a change
+show the status                         # git status
+diff the second file                    # git diff file2
+show the status                         # git status
+add the second file                     # git add file2
+show the status                         # git status
+diff the cached files                   # git diff --cached
+show the status                         # git status
+unadd (unstage) the second file         # git reset HEAD file2
+show the status                         # git status
+throw the second file's changes away    # git checkout -- file2
+show the status                         # git status
+
+# Viewing logs
+Show the log of changes                 # git log
+```
