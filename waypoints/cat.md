@@ -11,7 +11,7 @@ Make these two files:
   .
   ├── mydir
   │   └── myfile.txt
-  └── somefile.md
+  └── boring_work_stuff.md
   ```
 * `boring_work_stuff.md`
 
@@ -22,6 +22,7 @@ Make these two files:
   for me, "md" implies "my diary"
   ```
 * `mydir/myfile.txt`
+
   ```
   i am quite sure
   that within mydir
