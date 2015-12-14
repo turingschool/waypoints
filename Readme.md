@@ -36,3 +36,10 @@ The Waypoints
 * [Linked Lists]('waypoints/linked_lists.md')
 * [Debugging With Pry]('waypoints/debugging_with_pry.md')
 * [Quiz Week2](waypoints/quiz_week2.md) (covers files, command-line, small programs)
+* Small Programs
+  * [echo](waypoints/echo.md)
+  * [cat](waypoints/cat.md)
+  * [cp](waypoints/cp.md)
+  * [wc](waypoints/wc.md)
+  * [Chisel](waypoints/chisel.md)
+* [Writing pwd](waypoints/pwd.md) with pry
