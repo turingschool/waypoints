@@ -39,7 +39,7 @@ The Waypoints
 * Small Programs
   * [echo](waypoints/echo.md)
   * [cat](waypoints/cat.md)
-  * [cp](waypoints/cp.md)
+  * [cp](waypoints/cp.md) (coming soonish)
   * [wc](waypoints/wc.md)
   * [Chisel](waypoints/chisel.md)
 * [Writing pwd](waypoints/pwd.md) with pry
