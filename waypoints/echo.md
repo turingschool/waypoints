@@ -1,5 +1,7 @@
 # Build echo
 
+![Exmple video](https://vimeo.com/148889577)
+
 Echo is a program that prints out each of its arguments.
 
 ```sh

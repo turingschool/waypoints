@@ -1,5 +1,7 @@
 # Build cat
 
+![Exmple video](https://vimeo.com/148889578)
+
 Cat is a program that receives filenames
 and prints them out.
 Make these two files:
