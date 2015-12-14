@@ -11,7 +11,7 @@ Make these two files:
   .
   ├── mydir
   │   └── myfile.txt
-  └── somefile.md
+  └── boring_work_stuff.md
   ```
 * `boring_work_stuff.md`
 
