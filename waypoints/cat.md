@@ -22,6 +22,7 @@ Make these two files:
   for me, "md" implies "my diary"
   ```
 * `mydir/myfile.txt`
+
   ```
   i am quite sure
   that within mydir
