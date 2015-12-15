@@ -31,15 +31,19 @@ You can do this however you like, but for simplicity, I'll define a structure yo
 The Waypoints
 -------------
 
-* [How testing works](waypoints/how_testing_works.md)
-* [Object Oriented Programming](waypoints/object_oriented_programming.md)
-* [Linked Lists](waypoints/linked_lists.md)
-* [Debugging With Pry](waypoints/debugging_with_pry.md)
-* [Quiz Week2](waypoints/quiz_week2.md) (covers files, command-line, small programs)
-* Small Programs
+* How to program
+  * [Object Oriented Programming](waypoints/object_oriented_programming.md)
+  * [Linked Lists](waypoints/linked_lists.md)
+* Testing
+  * [How testing works](waypoints/how_testing_works.md)
+* Files / command-line programs
+  * [Quiz Week2](waypoints/quiz_week2.md)
   * [echo](waypoints/echo.md)
   * [cat](waypoints/cat.md)
-  * [cp](waypoints/cp.md) (coming soonish)
+  * [cp](waypoints/cp.md)
   * [wc](waypoints/wc.md)
   * [Chisel](waypoints/chisel.md)
-* [Writing pwd](waypoints/pwd.md) with pry
+  * [Writing pwd](waypoints/pwd.md)
+* Pry / debugging
+  * [Debugging With Pry](waypoints/debugging_with_pry.md)
+  * [Discovering how to write PWD with pry](waypoints/pwd.md)
