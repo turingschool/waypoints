@@ -34,8 +34,10 @@ The Waypoints
 * How to program
   * [Object Oriented Programming](waypoints/object_oriented_programming.md)
   * [Linked Lists](waypoints/linked_lists.md)
+  * [Character Counting](waypoints/character_counting.md) Shows how to start a project
 * Testing
   * [How testing works](waypoints/how_testing_works.md) (the mechanics of how to test)
+  * [Character Counting](waypoints/character_counting.md) Starting with high-level tests, moving down to unit tests.
 * Files / command-line programs
   * [Quiz Week2](waypoints/quiz_week2.md)
   * [echo](waypoints/echo.md)
@@ -47,6 +49,8 @@ The Waypoints
 * Pry / debugging
   * [Debugging With Pry](waypoints/debugging_with_pry.md)
   * [Discovering how to write PWD with pry](waypoints/pwd.md)
+  * [Character Counting](waypoints/character_counting.md) uses pry to gain context and try things out
 * Refactoring
   * [Blowing Bubbles 1](waypoints/blowing_bubbles1.md) Condense a bubble sort down to 1 line and back
   * [Blowing Bubbles 2](waypoints/blowing_bubbles2.md) Convert a procedural bubble sort to an object oriented bubble sort
+  * [Character Counting](waypoints/character_counting.md) Refactoring a solution we create
