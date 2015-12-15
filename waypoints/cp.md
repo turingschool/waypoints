@@ -1,6 +1,6 @@
 # Build cp
 
-[Exmple video](http://www.example.com)
+[Example video](http://www.example.com)
 
 cp is a program that receives 2 filenames
 and copies the first file into the second.

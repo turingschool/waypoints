@@ -35,7 +35,7 @@ The Waypoints
   * [Object Oriented Programming](waypoints/object_oriented_programming.md)
   * [Linked Lists](waypoints/linked_lists.md)
 * Testing
-  * [How testing works](waypoints/how_testing_works.md)
+  * [How testing works](waypoints/how_testing_works.md) (the mechanics of how to test)
 * Files / command-line programs
   * [Quiz Week2](waypoints/quiz_week2.md)
   * [echo](waypoints/echo.md)
