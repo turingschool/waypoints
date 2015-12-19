@@ -31,6 +31,9 @@ You can do this however you like, but for simplicity, I'll define a structure yo
 The Waypoints
 -------------
 
+* Computer setup
+  * [Type faster, reclaim capslock](waypoints/keyboard_setup.md)
+  * [Vim, Bare Minimum](waypoints/vim_bare_minimum.md)
 * How to program
   * [Object Oriented Programming](waypoints/object_oriented_programming.md)
   * [Linked Lists](waypoints/linked_lists.md)
@@ -54,3 +57,4 @@ The Waypoints
   * [Blowing Bubbles 1](waypoints/blowing_bubbles1.md) Condense a bubble sort down to 1 line and back
   * [Blowing Bubbles 2](waypoints/blowing_bubbles2.md) Convert a procedural bubble sort to an object oriented bubble sort
   * [Character Counting](waypoints/character_counting.md) Refactoring a solution we create
+* Vim
