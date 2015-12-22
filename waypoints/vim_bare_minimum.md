@@ -7,10 +7,11 @@ Notation: "C-a" means "hold control and press 'a'"
 Vim is a mediocre text editor with a powerful, optimized, and mostly
 consistent interface for expressing the edits you want to make.
 
-Note that you will inevitably have to use vim at some point, even if only quit.
-This is because it is easy to learn these basics and you will inevitably
-find yourself dropped into vim at some point (example 1: when you type
-`$ git commit` without a `-m` flag)
+Note that you will inevitably have to use vim at some point, even if only to quit.
+For example 1: when you type `$ git commit` without a `-m` flag, you wind up in
+vim unless you set a different text editor.
+Fortunately, there's only about 8 things to learn the minimum set of functionality
+(the 4 directions you can move in, edit, stop editing, save, and quit).
 
 It is not necessary, or even important to use vim.
 It is, however, very important to learn whatever editor you do choose to use,
@@ -28,7 +29,7 @@ That siad, if you want to learn vim, this is what I suggest:
    first lesson (It's the bare bare essentials: moving the cursor,
    editing a file, saving a file, deleting text, inserting text).
    On the first paper, write down all the things you learn as you go through vimtutor.
-5. Cheatsheet: After going through vimtutor, choose about 8 of the
+5. Cheatsheet: After going through the first lesson of vimtutor, choose about 8 of the
    "most important" commands and write them on the other sheet of paper,
    that will be your cheatsheet.
 6. The Keybinding Queue:
