@@ -57,4 +57,7 @@ The Waypoints
   * [Blowing Bubbles 1](waypoints/blowing_bubbles1.md) Condense a bubble sort down to 1 line and back
   * [Blowing Bubbles 2](waypoints/blowing_bubbles2.md) Convert a procedural bubble sort to an object oriented bubble sort
   * [Character Counting](waypoints/character_counting.md) Refactoring a solution we create
-* Vim
+* Miscellaneous
+  * [Http](waypoints/http.md)
+  * [Require and the Load Path](waypoints/require.md)
+  * [Vim](waypoints/vim_bare_minimum.md)
