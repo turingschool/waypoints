@@ -2,6 +2,8 @@
 
 [Material](https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/load_path_and_require.markdown)
 
+[Example video](https://vimeo.com/150878262)
+
 ## Waypoint
 
 Go to the minitest gem on your computer
