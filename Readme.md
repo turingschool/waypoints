@@ -33,7 +33,8 @@ The Waypoints
 
 * Computer setup
   * [Type faster, reclaim capslock](waypoints/keyboard_setup.md)
-  * [Vim, Bare Minimum](waypoints/vim_bare_minimum.md)
+  * [Vim, Getting Started](waypoints/vim_getting_started.md)
+  * [Vim, run/save/quit, hjkl](waypoints/vim_first_steps.md)
 * How to program
   * [Object Oriented Programming](waypoints/object_oriented_programming.md)
   * [Linked Lists](waypoints/linked_lists.md)
