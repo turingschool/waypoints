@@ -35,10 +35,14 @@ The Waypoints
   * [Type faster, reclaim capslock](waypoints/keyboard_setup.md)
   * [Vim, Getting Started](waypoints/vim_getting_started.md)
   * [Vim, run/save/quit, hjkl](waypoints/vim_first_steps.md)
+  * [Structuring Data](waypoints/structuring_data.md)
+  * [Core Structures](waypoints/core_structures.md)
 * How to program
   * [Object Oriented Programming](waypoints/object_oriented_programming.md)
   * [Linked Lists](waypoints/linked_lists.md)
   * [Character Counting](waypoints/character_counting.md) Shows how to start a project
+  * [Structuring Data]()
+  * [Core classes]()
 * Testing
   * [How testing works](waypoints/how_testing_works.md) (the mechanics of how to test)
   * [Character Counting](waypoints/character_counting.md) Starting with high-level tests, moving down to unit tests.
