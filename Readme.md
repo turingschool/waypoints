@@ -33,8 +33,6 @@ The Waypoints
 
 * Computer setup
   * [Type faster, reclaim capslock](waypoints/keyboard_setup.md)
-  * [Vim, Getting Started](waypoints/vim_getting_started.md)
-  * [Vim, run/save/quit, hjkl](waypoints/vim_first_steps.md)
   * [Structuring Data](waypoints/structuring_data.md)
   * [Core Structures](waypoints/core_structures.md)
 * How to program
@@ -65,4 +63,8 @@ The Waypoints
 * Miscellaneous
   * [Http](waypoints/http.md)
   * [Require and the Load Path](waypoints/require.md)
-  * [Vim](waypoints/vim_bare_minimum.md)
+* Vim
+  * [Vim, Getting Started](waypoints/vim_getting_started.md)
+  * [Vim, run/save/quit, hjkl](waypoints/vim_first_steps.md)
+  * [Vim, Common Keybindings](waypoints/vim_common_keybindings.md)
+
