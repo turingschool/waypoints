@@ -1,6 +1,6 @@
 # Build mv
 
-[Example video](FIXME) (have a student create this)
+[Example video](http://showterm.io/e6b334be3f3f39e532325)
 
 Mv is a program that receives two filenames.
 The first is the name of the file to move.
