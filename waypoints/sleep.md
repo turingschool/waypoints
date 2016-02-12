@@ -1,6 +1,6 @@
 # Build sleep
 
-[Example video](FIXME) (have a student create this)
+[Example video](https://vimeo.com/155066661)
 
 Sleep is a program that receives a number.
 That number tells it how many seconds to sleep for.

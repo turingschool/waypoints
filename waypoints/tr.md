@@ -1,6 +1,6 @@
 # Build tr
 
-[Example video](FIXME) (have a student create this)
+[Example video](https://vimeo.com/155066660)
 
 Tr is a program that takes two arguments,
 a string of characters to replace,

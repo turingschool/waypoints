@@ -1,5 +1,7 @@
 # Build wc
 
+[Example video](https://vimeo.com/155066665)
+
 wc is a program that receives filenames
 and prints out how many lines, words, and characters are in each file.
 

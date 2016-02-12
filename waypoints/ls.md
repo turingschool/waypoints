@@ -1,6 +1,6 @@
 # Build ls
 
-[Example video](FIXME) (have a student create this)
+[Example video](https://vimeo.com/155066658)
 
 Ls is a program that takes a path,
 and lists out all the files that are located there.

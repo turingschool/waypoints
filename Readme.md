@@ -28,6 +28,11 @@ You can do this however you like, but for simplicity, I'll define a structure yo
   $ cd how-testing-works
   ```
 
+Record your own
+---------------
+
+I'll add them! [Here](https://vimeo.com/155066659) is a video about how to do it.
+
 The Waypoints
 -------------
 

@@ -1,6 +1,6 @@
 # Build grep/ag
 
-[Example video](FIXME) (have a student create this)
+[Example video](https://vimeo.com/155066669)
 
 Grep is a program that prints each line of its standard input, if it contains the characters in its arguments.
 Ag is the same program, but done much better (highlights matches, and dramatically quicker).

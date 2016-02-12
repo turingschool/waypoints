@@ -1,6 +1,6 @@
 # Build sort
 
-[Example video](FIXME) (have a student create this)
+[Example video](https://vimeo.com/155066668)
 
 Sort is a program that reads in each line of standard input,
 sorts them alphabetically, and prints the sorted lines back out.

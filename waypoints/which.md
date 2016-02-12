@@ -1,6 +1,6 @@
 # Build which
 
-[Example video](FIXME) (have a student create this)
+[Example video](https://vimeo.com/155068130)
 
 Which receives one argument, the name of a program.
 It then looks through the directories in the `PATH`

@@ -1,6 +1,6 @@
 # Build touch
 
-[Example video](FIXME) (have a student create this)
+[Example video](https://vimeo.com/155068589)
 
 Touch is a program that receives a filename as an argument,
 and will make a new, empty file, if it doesn't exist.
