@@ -1,6 +1,6 @@
 # Build rm
 
-[Example video](FIXME) (have a student create this)
+[Example video](https://vimeo.com/155835416)
 
 Rm is a program that receives filenames as arguments,
 and deletes the specified files.
